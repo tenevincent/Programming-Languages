@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1401
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chapter3App", "Chapter3App\Chapter3App.pyproj", "{DE7D5801-B590-43A4-B22E-DA4D7A391EC9}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pcep_lists_collections_strings", "Pcep_lists_collections_strings\Pcep_lists_collections_strings.pyproj", "{17085076-0E27-4690-8538-C32E71C0CD76}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NumPyFromTutorialsPoint", "NumPyFromTutorialsPoint\NumPyFromTutorialsPoint.pyproj", "{AAE7508D-8CA7-4D1F-AA41-9654D035D977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatPlotLibFromCsharp", "MatPlotLibFromCsharp\MatPlotLibFromCsharp.csproj", "{349D0687-E31F-4224-B553-AB24774DA881}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{17085076-0E27-4690-8538-C32E71C0CD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAE7508D-8CA7-4D1F-AA41-9654D035D977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AAE7508D-8CA7-4D1F-AA41-9654D035D977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349D0687-E31F-4224-B553-AB24774DA881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349D0687-E31F-4224-B553-AB24774DA881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349D0687-E31F-4224-B553-AB24774DA881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349D0687-E31F-4224-B553-AB24774DA881}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
